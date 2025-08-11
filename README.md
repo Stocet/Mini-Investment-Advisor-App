@@ -1,5 +1,8 @@
-````markdown
 # Mini Investment Advisor
+
+[![Flutter Version](https://img.shields.io/badge/Flutter-3.7.0-blue?logo=flutter)](https://flutter.dev)
+[![Dart Version](https://img.shields.io/badge/Dart-3.0.0-blue?logo=dart)](https://dart.dev)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A Flutter application designed to help users create a simple one-year investment plan. The app provides a recommended asset allocation strategy based on the user's initial capital, financial goal, and investor type (active or passive).
 
@@ -28,7 +31,6 @@ To get started with the app, follow these steps:
    ```bash
    git clone https://github.com/your-username/mini-investment-advisor.git
    ```
-````
 
 2. Navigate to the project directory:
 
@@ -56,7 +58,18 @@ The app will launch on your connected device or emulator.
 ![Investment Advisory](/assets/screenshot/investement_advisory.png)
 ![Result](/assets/screenshot/result.png)
 
-```
+## Contributing
 
-If you want, I can help you add badges, contributing guidelines, or anything else!
-```
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a Pull Request.
+
+Please make sure your code follows the existing style and passes all tests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
