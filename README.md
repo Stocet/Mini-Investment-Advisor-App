@@ -52,12 +52,11 @@ The app will launch on your connected device or emulator.
 
 ## Screenshot
 
-\_\_
-
-![App Screenshot](/assets/screenshot/home_page.png)
-![App Screenshot](/assets/screenshot/investement_advisory.png)
-![App Screenshot](/assets/screenshot/result.png)
+![Home Page](/assets/screenshot/home_page.png)
+![Investment Advisory](/assets/screenshot/investement_advisory.png)
+![Result](/assets/screenshot/result.png)
 
 ```
 
+If you want, I can help you add badges, contributing guidelines, or anything else!
 ```
